@@ -10,3 +10,4 @@
 - [git add](./Commands/Add.md) 
 - [git commit](./Commands/Commit.md) 
 - [git remote](./Commands/Remote.md)
+- [git push](./Commands/Push.md) 
