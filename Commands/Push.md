@@ -24,6 +24,6 @@ git push -u orgin main
 
 ## Resources 
 >
-- [Git Push Documentation](https://git-sm.com/docs/git-push)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 ---
 [Back to Home](../README.md) 

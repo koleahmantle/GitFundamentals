@@ -7,15 +7,14 @@
 git config --global user.name "Koleah Mantle" 
 git config --global user.email koleahmantle@gmail.com
 ```
-
 >
-For more information, view the [first time git setup] (https://git-scm.com/book/en/v2/Getting# Git Exercise
->
+For more information, view the [First Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) 
+# Git Exercise
 >Git is a version control system that allows us to track changes and commit them to history.
 >
 > Here is a growing collection of resources and helpful commands to know when working with Git.
 ## Git Commands
-- [git config](./Commands/Config.md)-Started-First-Time-Git-Setup) documentation.
+- [git config](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 >
 # Resources
 >
