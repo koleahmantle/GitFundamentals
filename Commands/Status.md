@@ -17,6 +17,6 @@ git status
 ```
 >
 ## Resources
-- [Git stus Documentation](https://git-scm.com/docs/git-status)
+- [Git Status Documentation](https://git-scm.com/docs/git-status)
 ---
 [Back to home](../readme.md)
